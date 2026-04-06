@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vishal%20Somaraju&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Open%20to%20Work&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+React+%2B+Node+%2B+PostgreSQL;Web+Dev+Intern+%40+ShadowFox+%F0%9F%9A%80;Smart+India+Hackathon+2025+Participant+%F0%9F%87%AE%F0%9F%87%B3;Building+real-world+products+that+ship+%F0%9F%92%BC;Open+to+Internships+%26+Freelance+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+React+%2B+Node+%2B+PostgreSQL;Web+Dev+Intern+%40+ShadowFox+%F0%9F%9A%80;Smart+India+Hackathon+2025+Participant+%F0%9F%87%AE%F0%9F%87%B3;Building+real-world+products+that+ship;Open+to+Internships+%26+Freelance+opportunities)](https://git.io/typing-svg)
 
 <br/>
 
@@ -12,16 +12,11 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalsomaraju9@gmail.com)
 [![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-00C853?style=for-the-badge)](https://www.linkedin.com/in/vishalsomaraju/)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Vishalsomaraju&label=Profile+Views&color=4FC3F7&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/Vishalsomaraju?label=Followers&style=flat-square&color=4FC3F7)
-
 </div>
 
 ---
 
-## 🧭 About Me
+## About Me
 
 ```typescript
 const vishal = {
@@ -31,75 +26,70 @@ const vishal = {
   experience  : "Web Development Intern @ ShadowFox",
   hackathons  : ["Smart India Hackathon 2025 (Govt. of India)", "Hack-a-bot @ UiPath Community"],
   currentFocus: ["StockSense — SAP-grade Inventory & Procurement System", "Advanced JS → Node.js → Next.js"],
-  openTo      : ["Internships 🏢", "Freelance 💻", "Open Source 🌐", "Full-Time Post-Graduation 🎓"],
+  openTo      : ["Internships", "Freelance", "Open Source", "Full-Time Post-Graduation"],
   contact     : "vishalsomaraju9@gmail.com | +91 7993779331",
   motto       : "Ship fast. Scale right. Build things that matter.",
 };
 ```
 
-<br/>
-
-> 🚀 I'm a B.Tech CSE undergrad at KPRIT, Hyderabad — with hands-on industry experience as a **Web Dev Intern at ShadowFox** and a track record of shipping **live, deployed full-stack applications**. I've built everything from multiplayer escape rooms to e-commerce platforms, and I'm always chasing the next hard problem.
+> I'm a B.Tech CSE undergrad at KPRIT, Hyderabad — with hands-on industry experience as a **Web Dev Intern at ShadowFox** and a track record of shipping **live, deployed full-stack applications**. I've built everything from multiplayer escape rooms to e-commerce platforms, and I'm always chasing the next hard problem.
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 <div align="center">
 
-| Role | Company | Duration | Highlights |
-|---|---|---|---|
-| 🖥️ **Web Development Intern** | **ShadowFox** *(Remote, Hyderabad)* | Jun 2025 | React.js · Tailwind CSS · SPAs · Git workflows |
+[![ShadowFox](https://img.shields.io/badge/ShadowFox-Web%20Dev%20Intern-4FC3F7?style=for-the-badge&logo=briefcase&logoColor=white)](https://github.com/Vishalsomaraju)
+[![Duration](https://img.shields.io/badge/Jun%202025-Remote%2C%20Hyderabad-203a43?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
 </div>
 
-- Built **responsive, accessible web interfaces** using React.js and Tailwind CSS across devices and screen sizes
-- Developed scalable **Single-Page Applications** with clean component-based architecture
-- Collaborated professionally using **Git & GitHub** — feature branches, PRs, code review in a team environment
+- Built **responsive, accessible web interfaces** using [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org) and [![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com) across devices and screen sizes
+- Developed scalable **Single-Page Applications** with clean component-based architecture, reducing code duplication
+- Collaborated using [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com) and [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com) — feature branches, pull requests, code review in a team environment
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 🎨 Frontend
+### Frontend
 [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
 
-### ⚙️ Backend & Runtime
+### Backend
 [![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
 [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
 [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
 
-### 🗄️ Databases & Languages
+### Databases
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
-[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
-[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
 
-### 🔧 Tools & Platforms
+### Tools
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 [![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev)
 [![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)
-[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com)
 
-### 🌱 Currently Learning
+### Currently Learning
+[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
 [![NextJS](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
-[![Socket.io](https://skillicons.dev/icons?i=socketio)](https://socket.io)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -115,7 +105,7 @@ const vishal = {
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -125,47 +115,64 @@ const vishal = {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
-| Project | Live | Description | Stack |
-|---|---|---|---|
-| 🔐 **Tech Hunt** | [techhuntmvp.vercel.app](https://techhuntmvp.vercel.app) | Multiplayer escape room — rooms locked by binary, hex & coding puzzles. Real-time sync, JWT auth, 5-player teams, leaderboard | `TypeScript` `React 18` `Vite` `Node.js` `Express` `Socket.io` |
-| 💐 **DigiBouquet** | [digitalbouquet.vercel.app](https://digitalbouquet.vercel.app) | Send personalized digital bouquets — clean UI, mobile-first, deployed on Vercel | `React.js` `Tailwind CSS` |
-| 🛒 **E-Commerce** | [github](https://github.com/Vishalsomaraju/Ecommerce) | Full store — product listing, category filter, cart, Clerk auth, Context API state | `React.js` `Tailwind` `Clerk` `React Router` |
-| 🎓 **EduTrack** | [github](https://github.com/Vishalsomaraju/eduTrack) | Web-based Academic Management Platform for institutions | `JavaScript` `React` |
-| 🏭 **StockSense** | [github](https://github.com/Vishalsomaraju/inventory_management_system) | SAP-inspired Smart Inventory & Procurement System for SMEs *(WIP)* | `React` `FastAPI` `PostgreSQL` |
-| 🌐 **Portfolio** | [github](https://github.com/Vishalsomaraju/portfolio2) | Personal portfolio — animated text, smooth scrolling, project previews | `TypeScript` `React.js` `Tailwind` |
-
-</div>
-
----
-
-## 🎓 Certifications & Achievements
-
-<div align="center">
-
-| 🏅 Certification / Achievement | Issuer | Year |
+| Project | Live | Stack |
 |---|---|---|
-| 🇮🇳 **Smart India Hackathon (SIH) 2025** — Participant | Ministry of Education · MoE Innovation Cell · KPRIT | 2025 |
-| 📜 **JavaScript & DSA** *(NationSkillUp Initiative)* | GeeksforGeeks | 2025 |
-| ⚛️ **ReactJS** — 3-Day Immersive Program | LetsUpgrade | Jun 2025 |
-| 🤖 **Hack-a-bot** — Built UiPath RPA Bot | UiPath Community, Ace Engineering College | Dec 2024 |
+| **portfolio2** | [![Vercel](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel)](https://github.com/Vishalsomaraju/portfolio2) | [![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org) [![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com) [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org) |
+| **eduTrack** | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Vishalsomaraju/eduTrack) | [![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org) [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
+| **inventory\_management\_system** | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Vishalsomaraju/inventory_management_system) | [![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org) [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org) |
+| **digibouquet** | [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel)](https://digitalbouquet.vercel.app) | [![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org) [![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com) |
+| **Tech-Hunt** | [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel)](https://techhuntmvp.vercel.app) | [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org) [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org) [![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)](https://socket.io) |
+| **Ecommerce** | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Vishalsomaraju/Ecommerce) | [![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org) [![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com) [![Clerk](https://img.shields.io/badge/-Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)](https://clerk.com) |
 
 </div>
 
 ---
 
-## 🌟 Extracurricular
+## Certifications & Achievements
 
-- 🎙️ **Volunteer** — 2nd Edition, South India's Largest CSR Summit @ Shilpakala Vedika, Hyderabad *(Nov 2025)*
-- 🤖 **Hack-a-bot Participant** — UiPath RPA Bot Competition @ Ace Engineering College *(Dec 2024)*
-- 🏛️ **Smart India Hackathon 2025** — National govt. hackathon @ KPRIT, competing with teams across India
+<div align="center">
+
+[![ShadowFox](https://img.shields.io/badge/ShadowFox-Web%20Dev%20Intern%20Certificate-4FC3F7?style=for-the-badge&logo=briefcase&logoColor=white)]()
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-JavaScript%20%26%20DSA-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)]()
+[![NationSkillUp](https://img.shields.io/badge/NationSkillUp-JavaScript%20Certification-FF6B35?style=for-the-badge&logo=javascript&logoColor=white)]()
+[![LetsUpgrade](https://img.shields.io/badge/LetsUpgrade-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
+[![SIH](https://img.shields.io/badge/Smart%20India%20Hackathon-2025%20Participant-FF9933?style=for-the-badge&logo=indiangovernment&logoColor=white)]()
+[![UiPath](https://img.shields.io/badge/UiPath-Hack--a--bot%20RPA-FA4616?style=for-the-badge&logo=uipath&logoColor=white)]()
+
+</div>
+
+| Certification | Issuer | Year |
+|---|---|---|
+| [![briefcase](https://img.shields.io/badge/-Web%20Dev%20Intern%20Certificate-4FC3F7?style=flat-square&logo=briefcase&logoColor=white)]() **Web Development Intern Certificate** | ShadowFox | Jun 2025 |
+| [![GFG](https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)]() **JavaScript & DSA** *(NationSkillUp Initiative)* | GeeksforGeeks | 2025 |
+| [![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)]() **JavaScript Certification** | NationSkillUp | 2025 |
+| [![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)]() **ReactJS** — 3-Day Immersive Program | LetsUpgrade | Jun 2025 |
+| [![India](https://img.shields.io/badge/-Govt.%20of%20India-FF9933?style=flat-square&logo=indiangovernment&logoColor=white)]() **Smart India Hackathon (SIH) 2025** — Participant | Ministry of Education · MoE Innovation Cell | 2025 |
+| [![UiPath](https://img.shields.io/badge/-UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white)]() **Hack-a-bot** — Built UiPath RPA Bot | UiPath Community | Dec 2024 |
 
 ---
 
-## 📈 Contribution Graph
+## Extracurricular
+
+<div align="center">
+
+[![CSR](https://img.shields.io/badge/Volunteer-South%20India's%20Largest%20CSR%20Summit-0A66C2?style=for-the-badge&logo=handshake&logoColor=white)]()
+[![SIH](https://img.shields.io/badge/Participant-Smart%20India%20Hackathon%202025-FF9933?style=for-the-badge&logo=indiangovernment&logoColor=white)]()
+[![UiPath](https://img.shields.io/badge/Participant-Hack--a--bot%20%7C%20UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)]()
+
+</div>
+
+- [![handshake](https://img.shields.io/badge/-Nov%202025-0A66C2?style=flat-square&logo=handshake&logoColor=white)]() **Volunteer** — 2nd Edition, South India's Largest CSR Summit @ Shilpakala Vedika, Hyderabad — event coordination, attendee management, on-ground logistics at a high-profile national event
+- [![UiPath](https://img.shields.io/badge/-Dec%202024-FA4616?style=flat-square&logo=uipath&logoColor=white)]() **Hack-a-bot Participant** — Built a functional automation bot using UiPath RPA tools in a competitive environment @ Ace Engineering College
+- [![India](https://img.shields.io/badge/-2025-FF9933?style=flat-square&logo=indiangovernment&logoColor=white)]() **Smart India Hackathon 2025** — Competed with teams nationwide in a nationally recognized Government of India hackathon @ KPRIT
+
+---
+
+## Contribution Graph
 
 <div align="center">
 
@@ -175,18 +182,26 @@ const vishal = {
 
 ---
 
-## 💼 Currently Working On
+## Currently Working On
+
+<div align="center">
+
+[![StockSense](https://img.shields.io/badge/Building-StockSense%20%7C%20SAP--grade%20Inventory%20System-4FC3F7?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/Vishalsomaraju/inventory_management_system)
+[![Learning](https://img.shields.io/badge/Learning-Node.js%20→%20Next.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
+[![SAP](https://img.shields.io/badge/Training-SAP%20EduBridge%20%7C%20KPRIT-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)]()
+
+</div>
 
 ```
-📦 StockSense  →  SAP-grade Inventory & Procurement system (React + FastAPI + PostgreSQL)
-📚 Learning    →  Advanced JavaScript → Node.js/Express → Next.js
-🏢 Training    →  SAP EduBridge – Materials Management Module @ KPRIT
-🎯 Target      →  Full-Stack Developer role at a product-first company
+📦  StockSense  →  SAP-grade Inventory & Procurement system  (React + FastAPI + PostgreSQL)
+📚  Learning    →  Advanced JavaScript  →  Node.js / Express  →  Next.js
+🏢  Training    →  SAP EduBridge – Materials Management Module @ KPRIT
+🎯  Target      →  Full-Stack Developer role at a product-first company
 ```
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -200,7 +215,7 @@ const vishal = {
 
 <br/>
 
-> 💡 *"The best way to predict the future is to build it."*
+> *"The best way to predict the future is to build it."*
 
 <br/>
 
