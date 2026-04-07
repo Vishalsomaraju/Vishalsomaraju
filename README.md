@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vishal%20Somaraju&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Open%20to%20Work&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+React+%2B+Node+%2B+PostgreSQL;Web+Dev+Intern+%40+ShadowFox+%F0%9F%9A%80;Smart+India+Hackathon+2025+Participant;Building+real-world+products+that+ship;Open+to+Internships+%26+Freelance+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+React+%2B+Node+%2B+PostgreSQL;Open+to+Internships+%26+Freelance+opportunities)](https://git.io/typing-svg)
 
 <br/>
 
@@ -133,7 +133,6 @@ const vishal = {
 |---|---|---|
 | [![briefcase](https://img.shields.io/badge/-ShadowFox-4FC3F7?style=flat-square&logo=briefcase&logoColor=white)]() Web Development Intern Certificate | ShadowFox | Jun 2025 |
 | [![GFG](https://img.shields.io/badge/-GFG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)]() JavaScript & DSA — NationSkillUp Initiative | GeeksforGeeks | 2025 |
-| [![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=000)]() JavaScript Certification | NationSkillUp | 2025 |
 | [![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)]() ReactJS — 3-Day Immersive Program | LetsUpgrade | Jun 2025 |
 | [![India](https://img.shields.io/badge/-SIH-FF9933?style=flat-square&logo=indiangovernment&logoColor=white)]() Smart India Hackathon 2025 — Participant | Ministry of Education, Govt. of India | 2025 |
 | [![UiPath](https://img.shields.io/badge/-UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white)]() Hack-a-bot — RPA Bot Development | UiPath Community | Dec 2024 |
@@ -148,8 +147,8 @@ const vishal = {
 - **Hack-a-bot Participant** — UiPath Community @ Ace Engineering College *(Dec 2024)*
   Built a functional automation bot using UiPath RPA tools in a competitive environment
 
-- **Smart India Hackathon 2025** — Govt. of India @ KPRIT
-  Competed with teams nationwide in a nationally recognized government-backed hackathon
+- **Smart India Hackathon 2025** — coordinator @ KPRIT
+  Coordinated in a nationally recognized government hackathon
 
 ---
 
