@@ -92,6 +92,9 @@ const vishal = {
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishalsomaraju&theme=tokyonight&hide_border=true&background=0d1117&stroke=4FC3F7&ring=4FC3F7&fire=FF6B6B&currStreakLabel=4FC3F7&sideLabels=c9d1d9&dates=c9d1d9" width="60%"/>
 
 </div>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
