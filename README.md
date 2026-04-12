@@ -87,27 +87,11 @@ const vishal = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vishalsomaraju&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9&rank_icon=github" height="180px"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalsomaraju&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9&langs_count=8" height="180px"/>
-
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishalsomaraju&theme=tokyonight&hide_border=true&background=0d1117&stroke=4FC3F7&ring=4FC3F7&fire=FF6B6B&currStreakLabel=4FC3F7&sideLabels=c9d1d9&dates=c9d1d9" width="60%"/>
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vishalsomaraju&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
-
-</div>
-
 ---
 
 ## 🚀 Featured Projects
