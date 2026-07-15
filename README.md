@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalsomaraju/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vishalsomaraju)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4FC3F7?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Vishalsomaraju/portfolio2)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4FC3F7?style=for-the-badge&logo=vercel&logoColor=white)](https://vishalsomaraju.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalsomaraju9@gmail.com)
 [![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-00C853?style=for-the-badge)](https://www.linkedin.com/in/vishalsomaraju/)
 
